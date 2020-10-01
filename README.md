@@ -12,7 +12,7 @@ Siga estes passos para fazer a cópia da estrutura do site Drupal Brasil rodar e
 1. Descompacte o arquivo **dbr-dump.sql.tar.gz** e importe o arquivo **dbr-dump.sql** para o seu banco de dados.
 1. Acesse sua cópia do drupal Brasil.
 
-## Login
+## Login Adminstrator
 
 Usuário: **admin**
 
